@@ -4,6 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/HandyRouter.svg?style=flat)](https://cocoapods.org/pods/HandyRouter)
 [![License](https://img.shields.io/cocoapods/l/HandyRouter.svg?style=flat)](https://cocoapods.org/pods/HandyRouter)
 [![Platform](https://img.shields.io/cocoapods/p/HandyRouter.svg?style=flat)](https://cocoapods.org/pods/HandyRouter)
+[![codecov](https://codecov.io/gh/Leonard0803/TestRepo/graph/badge.svg?token=BE8TAS8DUY)](https://codecov.io/gh/Leonard0803/TestRepo)
 
 ## Example
 
